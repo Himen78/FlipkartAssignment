@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="34772" started-at="2019-12-04T19:36:33Z" finished-at="2019-12-04T19:37:08Z">
+  <suite name="Suite" duration-ms="32673" started-at="2019-12-04T19:56:36Z" finished-at="2019-12-04T19:57:09Z">
     <groups>
     </groups>
-    <test name="ChromeTest" duration-ms="26164" started-at="2019-12-04T19:36:33Z" finished-at="2019-12-04T19:36:59Z">
+    <test name="ChromeTest" duration-ms="21183" started-at="2019-12-04T19:56:36Z" finished-at="2019-12-04T19:56:57Z">
       <class name="com.selenium.flipkartlogin.CrossBroswerTestScript">
-        <test-method status="PASS" signature="chromeTest(java.lang.String)[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1ae369b7]" name="chromeTest" is-config="true" duration-ms="5305" started-at="2019-12-05T01:06:33Z" finished-at="2019-12-05T01:06:38Z">
+        <test-method status="PASS" signature="chromeTest(java.lang.String)[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1ae369b7]" name="chromeTest" is-config="true" duration-ms="5106" started-at="2019-12-05T01:26:36Z" finished-at="2019-12-05T01:26:41Z">
           <params>
             <param index="0">
               <value>
@@ -18,19 +18,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chromeTest -->
-        <test-method status="PASS" signature="assignmentExample()[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1ae369b7]" name="assignmentExample" duration-ms="18436" started-at="2019-12-05T01:06:38Z" finished-at="2019-12-05T01:06:57Z">
+        <test-method status="PASS" signature="assignmentExample()[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1ae369b7]" name="assignmentExample" duration-ms="15790" started-at="2019-12-05T01:26:41Z" finished-at="2019-12-05T01:26:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- assignmentExample -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1ae369b7]" name="closeBrowser" is-config="true" duration-ms="2391" started-at="2019-12-05T01:06:57Z" finished-at="2019-12-05T01:06:59Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1ae369b7]" name="closeBrowser" is-config="true" duration-ms="256" started-at="2019-12-05T01:26:57Z" finished-at="2019-12-05T01:26:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- com.selenium.flipkartlogin.CrossBroswerTestScript -->
     </test> <!-- ChromeTest -->
-    <test name="FirefoxTest" duration-ms="34772" started-at="2019-12-04T19:36:33Z" finished-at="2019-12-04T19:37:08Z">
+    <test name="FirefoxTest" duration-ms="32673" started-at="2019-12-04T19:56:36Z" finished-at="2019-12-04T19:57:09Z">
       <class name="com.selenium.flipkartlogin.CrossBroswerTestScript">
-        <test-method status="PASS" signature="chromeTest(java.lang.String)[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1b40d5f0]" name="chromeTest" is-config="true" duration-ms="8788" started-at="2019-12-05T01:06:33Z" finished-at="2019-12-05T01:06:42Z">
+        <test-method status="PASS" signature="chromeTest(java.lang.String)[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1b40d5f0]" name="chromeTest" is-config="true" duration-ms="6881" started-at="2019-12-05T01:26:36Z" finished-at="2019-12-05T01:26:43Z">
           <params>
             <param index="0">
               <value>
@@ -41,11 +41,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chromeTest -->
-        <test-method status="PASS" signature="assignmentExample()[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1b40d5f0]" name="assignmentExample" duration-ms="22879" started-at="2019-12-05T01:06:42Z" finished-at="2019-12-05T01:07:05Z">
+        <test-method status="PASS" signature="assignmentExample()[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1b40d5f0]" name="assignmentExample" duration-ms="22233" started-at="2019-12-05T01:26:43Z" finished-at="2019-12-05T01:27:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- assignmentExample -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1b40d5f0]" name="closeBrowser" is-config="true" duration-ms="3097" started-at="2019-12-05T01:07:05Z" finished-at="2019-12-05T01:07:08Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.flipkartlogin.CrossBroswerTestScript@1b40d5f0]" name="closeBrowser" is-config="true" duration-ms="3550" started-at="2019-12-05T01:27:05Z" finished-at="2019-12-05T01:27:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
